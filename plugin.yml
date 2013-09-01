@@ -1,0 +1,10 @@
+name: QuickShop-GriefPrevention-Interop
+author: Schmoller
+
+version: 1.0
+
+main: au.com.mineauz.qsa.Plugin
+
+permissions:
+  quickshop.allowinclaims:
+    default: op
